@@ -371,6 +371,11 @@ p.tarjeta-evento-titulo {
 	color: black;
 }
 
+/* --- patrocinador ------------- */
+
+.datacamp-logo-container {
+	text-align: center;
+}
 
 /* --- footer ------------- */
 .footer {
